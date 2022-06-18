@@ -1,0 +1,9 @@
+type Places @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  name: String!
+  description: String!
+  category: String!
+  lat: Float
+  lng: Float
+  imgURL: String
+}

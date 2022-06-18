@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vitapp-staging-93107-authRole",
+      "UnauthRoleArn": "arn:aws:iam::485192977252:role/amplify-vitapp-staging-93107-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::485192977252:role/amplify-vitapp-staging-93107-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-vitapp-staging-93107-deployment",
+      "UnauthRoleName": "amplify-vitapp-staging-93107-unauthRole",
+      "StackName": "amplify-vitapp-staging-93107",
+      "StackId": "arn:aws:cloudformation:us-east-1:485192977252:stack/amplify-vitapp-staging-93107/8e06bd60-eafb-11ec-ac8a-0ae6aa8dad81",
+      "AmplifyAppId": "dxpi28pig6168"
+    }
+  }
+}

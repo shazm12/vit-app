@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "name": "TT",
+        "description" : "Also known as Technology Tower here mostly ECE related branches have their classes.",
+        "category" : "academics",
+        "latitude": 12.971153524013367,
+        "longitude":  79.15946841052153
+    },
+    {
+        "id": "2",
+        "name": "SJT",
+        "description" : "Also known as Silver Jubilee Tower here mostly CSE and IT branches have their classes.",
+        "category" : "academics",
+        "latitude": 12.971268637047695,
+        "longitude":  79.16373364413462
+    },
+    {
+        "id": "3",
+        "name": "MB",
+        "description" : "Also known as Main Building located right in front of Main Gate.",
+        "category" : "academics",
+        "latitude": 12.969569543523777, 
+        "longitude":  79.1559082907543
+    },
+    {
+        "id": "4",
+        "name": "All Mart",
+        "description" : "A supermarket to buy all your groceries.",
+        "category" : "shop",
+        "latitude": 12.970263641514602, 
+        "longitude":  79.15428459096631
+    }
+]
